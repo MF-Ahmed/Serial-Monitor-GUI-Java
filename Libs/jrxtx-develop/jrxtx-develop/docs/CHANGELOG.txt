@@ -1,0 +1,34 @@
+v1.0.1 15-Jan-2018
+------------------
+
+- Java 9 compatibility
+
+
+v1.0.0 13-Feb-2017
+------------------
+
+- first major release
+
+- legacy RXTX API v2.2pre2 is unchanged and is part of jRxTx
+
+- fixes RXTX bug causing large CPU usage by high frequency polling of
+  serial port
+
+- includes bug fixes from Debian RXTX package maintainers
+
+- in addition to the legacy RXTX API jRxTx offers a completely new API
+  that provides a wrapper around RXTX.
+
+- new API offers InputStream that behaves conform to the general
+  java.io.InputStream interface contract and behaves very similarly to
+  the InputStream implementation provided by java.net.Socket.
+
+- jar is published on maven central
+
+- jar is OSGi bundle
+
+
+v0.0.1 29-Apr-2016
+------------------
+
+- alpha release
