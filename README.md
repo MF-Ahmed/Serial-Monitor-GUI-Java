@@ -8,12 +8,18 @@ An in-depth paragraph about your project and overview of use.
 ## Getting Started
 
 ### Dependencies
-*
-*
-*
-*
-*
-
+* Fazecast-jSerialComm
+* jcommon-1.0.23
+* jfreechart-1.0.19
+* jrxtx-develop
+* jSerialComm-2.9.2
+* jssc-2.8.0
+* jusb-0.4.4-src
+* IDE: NetBeans IDE 8.2
+* Java: 1.8.0_121; Java HotSpot(TM) 64-Bit Server VM 25.121-b13
+* Product Version: NetBeans IDE 8.2 (Build 201609300101)
+* Updates: Updates available to version NetBeans 8.2 Patch 2
+* System: Windows 10 version 10.0 running on amd64
 
 ### Installing
 
