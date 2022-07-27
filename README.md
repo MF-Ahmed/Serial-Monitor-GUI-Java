@@ -35,8 +35,11 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 ```
 
-### Screen Shots
+### Screenshots
  ![Alt text](../Screenshots/Screenshots_1.bmp "Optional title")
+
+![Alt text](https://github.com/MF-Ahmed/Serial-Monitor-GUI-Java.git//Screenshots/Screenshots_1.bmp "Optional title")
+
 
 ## Help
 
