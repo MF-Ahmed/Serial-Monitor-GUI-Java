@@ -36,7 +36,7 @@ code blocks for commands
 ```
 
 ### Screen Shots
- ![Alt text](../screenshots/Screenshots_1.bmp "Optional title")
+ ![Alt text](../Screenshots/Screenshots_1.bmp "Optional title")
 
 ## Help
 
