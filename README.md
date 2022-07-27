@@ -38,9 +38,9 @@ code blocks for commands
 ### Screenshots
 
 
-![TestGUI_V1.1](https://github.com/MF-Ahmed/Serial-Monitor-GUI-Java/blob/main/Screenshots/Screenshot_1.bmp "Optional title1")
-![TestGUI_V1.1](https://github.com/MF-Ahmed/Serial-Monitor-GUI-Java/blob/main/Screenshots/Screenshot_2.bmp "Optional title2")
-![TestGUI_V1.0](https://github.com/MF-Ahmed/Serial-Monitor-GUI-Java/blob/main/Screenshots/Screenshot_v1.0.bmp "Optional title3")
+![TestGUI_V1.1](https://github.com/MF-Ahmed/Serial-Monitor-GUI-Java/blob/main/Screenshots/Screenshot_1.bmp "TestGUI_V1.1")
+![TestGUI_V1.1](https://github.com/MF-Ahmed/Serial-Monitor-GUI-Java/blob/main/Screenshots/Screenshot_2.bmp "TestGUI_V1.1")
+![TestGUI_V1.0](https://github.com/MF-Ahmed/Serial-Monitor-GUI-Java/blob/main/Screenshots/Screenshot_v1.0.bmp "TestGUI_V1.0")
 
 ## Help
 
