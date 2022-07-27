@@ -38,8 +38,9 @@ code blocks for commands
 ### Screenshots
  ![Alt text](../Screenshots/Screenshots_1.bmp "Optional title")
 
-![Alt text](https://github.com/MF-Ahmed/Serial-Monitor-GUI-Java/tree/main/Screenshots/Screenshots_1.bmp "Optional title")
-
+![](https://github.com/MF-Ahmed/Serial-Monitor-GUI-Java/blob/main/Screenshots/Screenshot_1.bmp "Optional title1")
+![](https://github.com/MF-Ahmed/Serial-Monitor-GUI-Java/blob/main/Screenshots/Screenshot_2.bmp "Optional title2")
+![](https://github.com/MF-Ahmed/Serial-Monitor-GUI-Java/blob/main/Screenshots/Screenshot_v1.0.bmp "Optional title3")
 
 ## Help
 
