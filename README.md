@@ -38,7 +38,7 @@ code blocks for commands
 ### Screenshots
  ![Alt text](../Screenshots/Screenshots_1.bmp "Optional title")
 
-![Alt text](https://github.com/MF-Ahmed/Serial-Monitor-GUI-Java.git//Screenshots/Screenshots_1.bmp "Optional title")
+![Alt text](https://github.com/MF-Ahmed/Serial-Monitor-GUI-Java/tree/main/Screenshots/Screenshots_1.bmp "Optional title")
 
 
 ## Help
