@@ -23,8 +23,9 @@ An in-depth paragraph about your project and overview of use.
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Install java and Netbeans 8.2
+* Download the dependent libraries and install them using netbeans
+* to install libraries go to project--> Libraries --> right click --> add jar/folder
 
 ### Executing program
 
